@@ -1,0 +1,20 @@
+Bring your own log analytics (BYOLA) Problem Statement
+
+
+Customers struggle to diagnose and resolve performance issues​
+
+Customers want absolute usage metrics, at report page level​
+
+​
+
+Limited logs/metrics available in the service (varies by area)​
+
+No long-term storage of performance/health/usage metrics​
+
+Difficult for workspace admins to access relevant data​
+
+Many information sources and tools to get a full picture (inc. 3rd party)​
+
+Correlation is difficult/impossible​
+
+Performance tuning is difficult and time-consuming
